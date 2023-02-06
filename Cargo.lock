@@ -1762,9 +1762,9 @@ dependencies = [
 
 [[package]]
 name = "ropey"
-version = "1.5.1-alpha"
+version = "1.6.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "917e62c0dee8926492dd13164b3cefaad2b0e03ab49f48c0d41635797a7409b3"
+checksum = "53ce7a2c43a32e50d666e33c5a80251b31147bb4b49024bcab11fb6f20c671ed"
 dependencies = [
  "smallvec",
  "str_indices",
